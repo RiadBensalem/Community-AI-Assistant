@@ -4,6 +4,7 @@ This project implements a **stateful AI agent** designed to assist in managing a
 
 I started this project after completing a 5 days intensive GenAI course: [Course link](https://blog.google/technology/developers/google-kaggle-genai-intensive/)
 
+![Global Architecture](./ai-assistant.png)
 ---
 
 ## 🧠 What This Agent Does
